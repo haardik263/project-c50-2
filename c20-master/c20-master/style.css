@@ -1,0 +1,5 @@
+.item{
+  display:flex;
+  background-color: darkcyan;
+  justify-content: center;
+}
